@@ -21,4 +21,6 @@ Changes made in index.html and style.css for Homework 1 - Code Refactor
       -Class = links
       -Class = linkstyle
       -Class = linkdisplay
+      
+7) Changed the name in the title tag to Horiseon
 
